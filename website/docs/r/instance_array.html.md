@@ -14,8 +14,8 @@ In general lines an InstanceArray has the following properties:
 
 * provision control flags & other properties
 * one or more [drive_array](/docs/providers/metalcloud/r/drive_array.html) blocks
-* one or mare [interface](/docs/providers/metalcloud/r/interface.html) blocks
-* one or mare [firewall_rule](/docs/providers/metalcloud/r/interface.html) blocks
+* one or mare [interface](/docs/providers/metalcloud/r/instance_array_interface.html) blocks
+* one or mare [firewall_rule](/docs/providers/metalcloud/r/firewall_rule.html) blocks
 
 ## Example usage
 
